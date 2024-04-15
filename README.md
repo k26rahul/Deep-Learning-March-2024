@@ -1,6 +1,7 @@
 # Deep Learning - Mar '24
 
-Backpropagation, McCulloch-Pitts neuron, Perceptron, Multi-layer Perceptron, Feedforward networks.
+Deep Learning March 2024: Practicing backpropagation, McCulloch Pitts neuron, perceptron, MLP, feed-forward networks for T1 DL exam.
 
-- [T1:](./T1/) Studying for T1 DL exam.
-- [T1/Resources:](./T1/Resources/) Syllabus, PDFs, and handwritten notes.
+[Resources:](./Resources/) Syllabus, PDFs, handwritten notes.
+
+Notebooks: Notes and code covering various concepts.
